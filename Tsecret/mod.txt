@@ -1,0 +1,9 @@
+{
+	"name": "Solo Overdrill",
+	"author": "TK7",
+	"description": "https://modworkshop.net/mod/27472",
+	"version": "3",
+	"hooks": [
+		{"hook_id": "core/lib/managers/mission/coremissionscriptelement", "script_path": "coremissionscriptelement.lua"}
+	]
+}

@@ -1,0 +1,1 @@
+RegisterScript("lib/lua/Tsecret/coremissionscriptelement.lua", 2, "core/lib/managers/mission/coremissionscriptelement")
